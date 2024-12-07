@@ -6,4 +6,7 @@ Repositorio para registro das atividades do curso.
 
 Basicamente vai me ajudar a lidar com situações de tomada de decisoes, principalmente nas minhas atividade no trabalho.
 
+2 - Atividade de fixação (Do slide)
+![alt text](image.png)
 
+![alt text](image-1.png)
